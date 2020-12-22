@@ -7,15 +7,15 @@
 
 ## Content
 - [Project Description](#project-description)
-- [Rules](#rules)
+- [Game Rules](#rules)
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
 
 ## Project Description
-We created a Tic Tac Toe game thanks to Python.
+We created a Tic Tac Toe game thanks to Python.This is a one player game against computer, that is played on a 3×3 square grid. Each player occupies a cell in turns, with the objective of placing three marks in a horizontal, vertical, or diagonal pattern.
 
-## Rules
+## Game Rules
 The game is played on a grid that's 3 squares by 3 squares.
 You are X, your friend is O. Players take turns putting their marks in empty squares.
 The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
@@ -23,7 +23,7 @@ When all 9 squares are full, the game is over. If no player has 3 marks in a row
 
 
 ## Workflow
-<img src="C:/Users/mahsh/Desktop/Ironhack/working_dir/projects/Projet1_tic_tac_toe/Project-1/workflow.png"/>
+<img src="img/workflow.png"/>
 
 ## Organization
 In repositoy of project you find:
